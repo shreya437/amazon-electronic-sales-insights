@@ -33,7 +33,10 @@ This project analyzes Amazon electronics sales data using Power BI to uncover ke
 1. Download the `.pbit` file  
 2. Open it in Power BI Desktop  
 3. Load the dataset when prompted  
-4. Explore the interactive dashboard  
+4. Explore the interactive dashboard
+     
+8 Screenshot - https://github.com/shreya437/amazon-electronic-sales-insights/blob/main/snapshot%20of%20dashboard.png
 
-8 Use Case
+
+9 Use Case
 Suitable for Data Analyst, Business Analyst, and Power BI portfolio projects.
